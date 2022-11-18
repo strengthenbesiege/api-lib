@@ -1,0 +1,1 @@
+{"errors": [{"code": 3, "level": "warn", "message": "Semgrep Core WARN - Syntax error in file /Users/nickorefice/Documents/GitHub/terragoat/libapi.py:38\n\t`` was unexpected", "path": "/Users/nickorefice/Documents/GitHub/terragoat/libapi.py", "type": "Syntax error"}], "results": []}
